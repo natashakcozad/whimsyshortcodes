@@ -1,0 +1,429 @@
+# Copyright (C) 2014 Whimsy Shortcodes
+# This file is distributed under the same license as the Whimsy Shortcodes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Whimsy Shortcodes 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/WordPress-Plugin-Template\n"
+"POT-Creation-Date: 2014-04-07 11:28:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-11-03 09:01+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: sr_RS\n"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:52
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:42
+msgctxt "post type general name"
+msgid "Post Type"
+msgstr "Tip posta"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:53
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:43
+msgctxt "post type singular name"
+msgid "Post Type"
+msgstr "Tip posta"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:55
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:45
+msgid "Add New %s"
+msgstr "Dodaj novi %s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:55
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:56
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:57
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:59
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:45
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:46
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:47
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:49
+msgid "Post"
+msgstr "Post"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:56
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:46
+msgid "Edit %s"
+msgstr "Uredi %s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:57
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:47
+msgid "New %s"
+msgstr "Novi %s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:58
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:48
+msgid "All %s"
+msgstr "Svi %s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:58
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:60
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:61
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:62
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:48
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:50
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:51
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:52
+msgid "Posts"
+msgstr "Postovi"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:59
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:49
+msgid "View %s"
+msgstr "Vidi %s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:60
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:50
+msgid "Search %a"
+msgstr "Pretraži %s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:61
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:51
+msgid "No %s Found"
+msgstr "Nisu pronađeni %s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:62
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:52
+msgid "No %s Found In Trash"
+msgstr "Nisu pronađeni %s u korpi za otpatke"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:64
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:54
+msgid "*Posts"
+msgstr "*Postovi"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:95
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:105
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:85
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:95
+msgid "Terms"
+msgstr "Termini"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:96
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:86
+msgid "Term"
+msgstr "Termin"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:97
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:87
+msgid "Search Terms"
+msgstr "Pretraži termine"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:98
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:88
+msgid "All Terms"
+msgstr "Svi termini"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:99
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:89
+msgid "Parent Term"
+msgstr "Nadređeni termin"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:100
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:90
+msgid "Parent Term:"
+msgstr "Nadređeni termin:"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:101
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:91
+msgid "Edit Term"
+msgstr "Uredi termin"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:102
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:92
+msgid "Update Term"
+msgstr "Ažuriraj termin"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:103
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:93
+msgid "Add New Term"
+msgstr "Dodaj novi termin"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:104
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:94
+msgid "New Term Name"
+msgstr "Novi naziv termina"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:125
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:115
+msgid "Custom Field"
+msgstr "Prilagođeno polje"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:180
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:170
+msgid "Post updated. %sView post%s."
+msgstr "Post je ažuriran. %sVidi post%s."
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:181
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:171
+msgid "Custom field updated."
+msgstr "Prilagođeno polje ažurirano"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:182
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:172
+msgid "Custom field deleted."
+msgstr "Prilagođeno polje je obrisano."
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:183
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:173
+msgid "Post updated."
+msgstr "Post ažuriran."
+
+#. translators: %s: date and time of the revision
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:185
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:175
+msgid "Post restored to revision from %s."
+msgstr "Post vraćen na reviziju od %s."
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:186
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:176
+msgid "Post published. %sView post%s."
+msgstr "Post objavljen. %sVidi post%s."
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:187
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:177
+msgid "Post saved."
+msgstr "Post sačuvan."
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:188
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:178
+msgid "Post submitted. %sPreview post%s."
+msgstr "Post podnesen. %sPregledaj post%s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:189
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:179
+msgid "Post scheduled for: %1$s. %2$sPreview post%3$s."
+msgstr "Post planiran za: %1$s. %2$sPregledaj post%3$s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:189
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:179
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:190
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:180
+msgid "Post draft updated. %sPreview post%s."
+msgstr "Skica posta ažurirana. %sPregledaj post%s"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:201
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:191
+msgid "Post Details"
+msgstr "Detalji posta"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:295
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:285
+msgid "Enter the post title here"
+msgstr "Ovde unesite naslov posta"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:308
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:298
+msgid "Custom field:"
+msgstr "Prilagođeno polje:"
+
+#: classes/post-types/class-whimsy-shortcodes-post_type.php:309
+#: includes/post-types/class-whimsy-shortcodes-post_type.php:299
+msgid "Description of this custom field."
+msgstr "Opsi prilagođenog polja."
+
+#: includes/class-whimsy-shortcodes-settings.php:70
+#: includes/class-whimsy-shortcodes-settings.php:405
+msgid "Plugin Settings"
+msgstr "Podešavanja plugin-a"
+
+#: includes/class-whimsy-shortcodes-settings.php:99
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: includes/class-whimsy-shortcodes-settings.php:111
+msgid "Standard"
+msgstr "Standardna"
+
+#: includes/class-whimsy-shortcodes-settings.php:112
+msgid "These are fairly standard form input fields."
+msgstr "Ovo su standardna podešavanja za unos polja."
+
+#: includes/class-whimsy-shortcodes-settings.php:116
+msgid "Some Text"
+msgstr "Neki tekst"
+
+#: includes/class-whimsy-shortcodes-settings.php:117
+msgid "This is a standard text field."
+msgstr "Ovo je standardno polje za tekst."
+
+#: includes/class-whimsy-shortcodes-settings.php:120
+#: includes/class-whimsy-shortcodes-settings.php:128
+#: includes/class-whimsy-shortcodes-settings.php:136
+msgid "Placeholder text"
+msgstr "Zamenski tekst"
+
+#: includes/class-whimsy-shortcodes-settings.php:124
+msgid "A Password"
+msgstr "Lozinka"
+
+#: includes/class-whimsy-shortcodes-settings.php:125
+msgid "This is a standard password field."
+msgstr "Ovo je standardno polje za lozinku"
+
+#: includes/class-whimsy-shortcodes-settings.php:132
+msgid "Some Secret Text"
+msgstr "Neki tajni tekst"
+
+#: includes/class-whimsy-shortcodes-settings.php:133
+msgid ""
+"This is a secret text field - any data saved here will not be displayed "
+"after the page has reloaded, but it will be saved."
+msgstr ""
+"Ovo je polje za tajni tekst - podaci koje ovde sačuvate neće biti prikazani "
+"kad se stranica ponovo učita, ali će biti sačuvani."
+
+#: includes/class-whimsy-shortcodes-settings.php:140
+msgid "A Text Block"
+msgstr "Blok teksta"
+
+#: includes/class-whimsy-shortcodes-settings.php:141
+msgid "This is a standard text area."
+msgstr "Ovo je standardno mesto za tekst."
+
+#: includes/class-whimsy-shortcodes-settings.php:144
+msgid "Placeholder text for this textarea"
+msgstr "Zamenski tekst datog mesta za tekst."
+
+#: includes/class-whimsy-shortcodes-settings.php:148
+msgid "An Option"
+msgstr "Opcija"
+
+#: includes/class-whimsy-shortcodes-settings.php:149
+msgid ""
+"A standard checkbox - if you save this option as checked then it will store "
+"the option as 'on', otherwise it will be an empty string."
+msgstr ""
+"Standardno polje za štikliranje - ako sačuvate ovu opciju kao štikliranu, "
+"opcija će se sačuvati kao ‘aktivirana’. U suprotnom, biće samo prazan niz."
+
+#: includes/class-whimsy-shortcodes-settings.php:155
+msgid "A Select Box"
+msgstr "Okvir za odabir"
+
+#: includes/class-whimsy-shortcodes-settings.php:156
+msgid "A standard select box."
+msgstr "Standardni okvir za odabir"
+
+#: includes/class-whimsy-shortcodes-settings.php:163
+msgid "Some Options"
+msgstr "Neke opcije"
+
+#: includes/class-whimsy-shortcodes-settings.php:164
+msgid "A standard set of radio buttons."
+msgstr "Standardni set radio tastera."
+
+#: includes/class-whimsy-shortcodes-settings.php:171
+msgid "Some Items"
+msgstr "Neke stavke"
+
+#: includes/class-whimsy-shortcodes-settings.php:172
+msgid "You can select multiple items and they will be stored as an array."
+msgstr "Možete odabrati višestruke stavke i one će biti sačuvane kao niz."
+
+#: includes/class-whimsy-shortcodes-settings.php:181
+msgid "Extra"
+msgstr "Dodatno"
+
+#: includes/class-whimsy-shortcodes-settings.php:182
+msgid ""
+"These are some extra input fields that maybe aren't as common as the others."
+msgstr "Ovo su neka od dodatnih polja za unos koja možda nisu tako česta."
+
+#: includes/class-whimsy-shortcodes-settings.php:186
+msgid "A Number"
+msgstr "Broj"
+
+#: includes/class-whimsy-shortcodes-settings.php:187
+msgid ""
+"This is a standard number field - if this field contains anything other than "
+"numbers then the form will not be submitted."
+msgstr ""
+"Ovo je standardno polje za broj - ako ovo polje sadrži bilo šta, osim broja, "
+"obrazac neće biti podnesen."
+
+#: includes/class-whimsy-shortcodes-settings.php:190
+msgid "42"
+msgstr "42"
+
+#: includes/class-whimsy-shortcodes-settings.php:194
+msgid "Pick a colour"
+msgstr "Izaberite boju"
+
+#: includes/class-whimsy-shortcodes-settings.php:195
+msgid ""
+"This uses WordPress' built-in colour picker - the option is stored as the "
+"colour's hex code."
+msgstr ""
+"Koristi ugrađeni WordPress birač boja - opcija je sačuvana kao hex kod boja."
+
+#: includes/class-whimsy-shortcodes-settings.php:201
+msgid "An Image"
+msgstr "Slika"
+
+#: includes/class-whimsy-shortcodes-settings.php:202
+msgid ""
+"This will upload an image to your media library and store the attachment ID "
+"in the option field. Once you have uploaded an imge the thumbnail will "
+"display above these buttons."
+msgstr ""
+"Na ovaj način otpremićete sliku u svoju biblioteku medija i sačuvati ID "
+"priložene datoteke u polju za opcije. Kad otpremite sliku, sličica će se "
+"prikazati iznad ovih tastera."
+
+#: includes/class-whimsy-shortcodes-settings.php:209
+msgid "A Multi-Select Box"
+msgstr "Okvir za višestruko selektovanje"
+
+#: includes/class-whimsy-shortcodes-settings.php:210
+msgid "A standard multi-select box - the saved data is stored as an array."
+msgstr ""
+"Standardni okvir za višestruko selektovanje - sačuvani podaci prikazuju se "
+"kao niz."
+
+#: includes/class-whimsy-shortcodes-settings.php:354
+msgid "Upload an image"
+msgstr "Otpremi sliku"
+
+#: includes/class-whimsy-shortcodes-settings.php:354
+msgid "Use image"
+msgstr "Upotrebi sliku"
+
+#: includes/class-whimsy-shortcodes-settings.php:354
+msgid "Upload new image"
+msgstr "Otpremi novu sliku"
+
+#: includes/class-whimsy-shortcodes-settings.php:355
+msgid "Remove image"
+msgstr "Ukloni sliku"
+
+#: includes/class-whimsy-shortcodes-settings.php:410
+msgid "All"
+msgstr "Sve"
+
+#: includes/class-whimsy-shortcodes-settings.php:427
+msgid "Save Settings"
+msgstr "Sačuvaj podešavanja"
+
+#: includes/class-whimsy-shortcodes-settings.php:458
+#: includes/class-whimsy-shortcodes-settings.php:467
+#: includes/class-whimsy-shortcodes.php:207
+#: includes/class-whimsy-shortcodes.php:216
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#. Plugin Name of the plugin/theme
+msgid "Whimsy Shortcodes"
+msgstr "Whimsy Shortcode-ovi"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.hughlashbrooke.com/"
+msgstr "http://www.hughlashbrooke.com/"
+
+#. Author of the plugin/theme
+msgid "Hugh Lashbrooke"
+msgstr "Hugh Lashbrooke"
